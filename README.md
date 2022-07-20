@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Alex Kochubey
-- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Greetings everyone!
 
-<!---
-alexkochubey/alexkochubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Alex Kochubey and i'm software development engineer.
+
+Basicly, i'm working with Java & Kotlin languages in BE, but i also developing front side of apps (React.js, Vue.js).
+
+Currently i'm living in Moscow, Russia and working in NSPK (Mir.Platform) the biggest IT company that develops software for worldwide payment systems. 
+
+You can reach me with telegram ( @alexkochubey ) & instagram ( @alexkochubey ). 
+
+I'm looking for collaboration in BE apps and i can help you with FE as well.
